@@ -1,5 +1,5 @@
 {
-  "workshoptitle": "The Title of the Workshop is Defined in the Manifest File",
+  "workshoptitle": "The Title of the Workshop is Defined in the Manifest File RP Edit",
   "include": {
     "starter-file.sql": "../../data-load/files/starter-file.sql",
     "sample.json": "../../data-load/files/sample.json",
@@ -32,6 +32,11 @@
       "title": "Lab 3: Initialize Environment",
       "description": "Initialize Environment",
       "filename": "../../initialize-environment/initialize-environment.md"
+    },
+    {
+      "title": "Lab 3: – Explore a Workflow Agent in AI Agent Studio",
+      "description": "Learn about workflow agents and execute one of the pre-built workflow agents.",
+      "filename": "../../riti_first_lab/riti_first_lab.md"
     },
     {
       "title": "Lab 4: Provision an Instance",

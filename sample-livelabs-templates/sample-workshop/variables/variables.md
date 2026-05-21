@@ -1,6 +1,6 @@
-# Variables in LiveLabs
+# Variables in LiveLabs  Rick is gonna change
 
-## Introduction
+## IntroductionX
 
 Define variables in a JSON file and reference them inside your Markdown.
 

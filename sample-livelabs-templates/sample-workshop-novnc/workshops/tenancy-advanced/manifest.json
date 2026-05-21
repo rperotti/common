@@ -43,6 +43,11 @@
       "description": "Queyring the data",
       "filename": "../../query/query.md"
     },
+        {
+      "title": "Lab 5: – Explore a Workflow Agent in AI Agent Studio",
+      "description": "Learn about workflow agents and execute one of the pre-built workflow agents.",
+      "filename": "../../riti_first_lab/riti_first_lab.md"
+    },
     {
       "title": "Environment Cleanup",
       "description": "Cleanly dispose of all OCI resources created by ORM for the workshop, and delete the stack",
